@@ -1,0 +1,11 @@
+{
+  "name": "npc-gen",
+  "version": "1.0.0",
+  "description": "Collection of needed dependencys to run this generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Connor Val Adamson",
+  "license": "ISC"
+}
