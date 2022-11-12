@@ -5,3 +5,11 @@
 --portland-orange: #fc5130ff;
 --black: #050401ff;*/
 
+main {
+    text-align: center;
+    border: 5px solid #fc5130ff;
+    fill: #fc5130ff;
+    line-height: 1px;
+    border-width: 5px;
+
+}
