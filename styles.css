@@ -5,6 +5,7 @@
 --portland-orange: #fc5130ff;
 --black: #050401ff;*/
 
+
 body{
     background-color: #303036ff;
 }
@@ -41,3 +42,34 @@ h3{
     text-align: center;
     padding: 20px;
   }
+
+
+
+.colunmleft{
+    float: left;
+    width: 50%;
+
+
+}
+
+.colunmright{
+    float: right;
+    width: 50%;
+ 
+
+}
+
+.card {
+    background-color: #60606c; 
+    padding: 20px;
+    text-align: center;
+    border: 5px solid #050401ff;
+    margin: 10px;
+    min-height: 140px;
+    border-radius: 20px;
+    
+  }
+
+.title{
+    text-align: left;
+}
