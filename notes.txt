@@ -1,0 +1,37 @@
+So plan is to first get the page loading random names and such from an array,
+
+then after this add in a database from it to pull from isnted as well as additonal listings.
+
+
+Tasks:
+
+Pull from seperate file: Complete
+
+Pull random name from array: Complete
+
+Assign arrays to multiple attributes: Complete
+
+Pull random attributes from multiple Arrays: Complete
+
+Reserch Style: Still More to learn
+
+Style Page: Basic Style added
+
+Add Database:
+
+Add Aditional Fields:
+
+Add Exportablity:
+
+Create orcale cloud server:
+
+Maybe Add Full Sheet Details:
+
+
+
+
+credits: 
+u/The_Camwin for job lists
+
+Tony for web setup tutorial: https://tonyteaches.tech/oracle-always-free-website-tutorial/
+

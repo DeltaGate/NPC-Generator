@@ -1,4 +1,11 @@
 # NPC-Generator
+Version 0.3
+
+Changelog:
+
+Added styling via basic css,
+Added New HTML Structure to support style
+
 
 Version 0.2
 
